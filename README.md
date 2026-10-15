@@ -1,4 +1,6 @@
-## Hi there 👋
+Candidate for B.A. in Physics and Philosophy at the University of Pennsylvania.
+
+AutoResearch, deep learning, and other fun stuff.
 
 <!--
 **ammarphp/ammarphp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
